@@ -1,5 +1,4 @@
 import requests
-import time
 
 def bypass(url):
   payload = {
