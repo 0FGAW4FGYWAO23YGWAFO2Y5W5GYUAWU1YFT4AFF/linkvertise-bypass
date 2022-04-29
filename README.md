@@ -6,7 +6,7 @@ i whipped this up in about 10 minutes so dont expect anything good
 | Website       | working?      | 
 | ------------- | -------------:| 
 | linkvertise.com      | ✔ | 
-| adf.ly      | ✔     | 
+| adf.ly (and all of their links      | ✔     | 
 | exe.io/exey.io      | ✔     | 
 | sub2unlock.net/sub2unlock.com | ✔     | 
 | rekonise.com | ✔      | 
