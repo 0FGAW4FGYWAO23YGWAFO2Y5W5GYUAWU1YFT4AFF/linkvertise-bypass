@@ -1,3 +1,4 @@
+# cool api example
 import requests
 
 def bypass(url):
